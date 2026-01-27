@@ -1,0 +1,5 @@
+{"OrderID":1001,"Customer":"Alice","Product":"Laptop","Quantity":1,"Price":1200.0,"Date":"2026-01-01","Total":1200.0}
+{"OrderID":1002,"Customer":"Bob","Product":"Phone","Quantity":2,"Price":800.0,"Date":"2026-01-02","Total":1600.0}
+{"OrderID":1003,"Customer":"Charlie","Product":"Headphones","Quantity":3,"Price":150.0,"Date":"2026-01-03","Total":450.0}
+{"OrderID":1004,"Customer":"Diana","Product":"Monitor","Quantity":1,"Price":300.0,"Date":"2026-01-04","Total":300.0}
+{"OrderID":1005,"Customer":"Evan","Product":"Keyboard","Quantity":4,"Price":50.0,"Date":"2026-01-05","Total":200.0}

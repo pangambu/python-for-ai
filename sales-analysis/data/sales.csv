@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Quantity,Price,Date
+1001,Alice,Laptop,1,1200.0,2026-01-01
+1002,Bob,Phone,2,800.0,2026-01-02
+1003,Charlie,Headphones,3,150.0,2026-01-03
+1004,Diana,Monitor,1,300.0,2026-01-04
+1005,Evan,Keyboard,4,50.0,2026-01-05
