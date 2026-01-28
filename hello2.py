@@ -77,6 +77,5 @@ whiskers.sleep()
 # Overridden method
 whiskers.make_sound()
 
-# Cat-specific method for climbing
-whiskers.climb()
-
+# Cat-specific method for climbing trees
+whiskers.climb()    
